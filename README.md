@@ -1,6 +1,6 @@
-# mr_piadocas
+# Gerador de piadas em flutter
 
-A new Flutter project.
+Gerador de piadas básico em Flutter. Pega uma piada randomizada de uma lista.
 
 ## Getting Started
 
